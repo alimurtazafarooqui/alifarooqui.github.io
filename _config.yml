@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Ali Farooqui Limited
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: DevOps Consultant 
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["DevOps", "Consultant"]
 
 #
 ###################################
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Ali Farooqui
+  avatar: alifarooquiltd.png
+  job: "DevOps Consultant"
+  bio: ""
+  email: mail@alifarooqui
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: alimurtazafarooqui
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
