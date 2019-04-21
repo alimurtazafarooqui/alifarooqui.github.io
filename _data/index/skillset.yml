@@ -1,20 +1,19 @@
 - name: Configuration Management
-  descr: Ansible, Puppet 
+  descr: "Ansible, Puppet" 
 
 - name: Containers and Orchestration
-  descr: Docker, ECS, LXC, Kubernetes
+  descr: "Docker, ECS, LXC, Kubernetes"
 
 - name: Infrastructure as Code
-  descr: Terraform, CloudFormation, Altus Director config
+  descr: "Terraform, CloudFormation, Altus Director config"
 
 - name: Continuous Integration
-  descr: Gitlab, Jenkins
+  descr: "Gitlab, Jenkins"
 
 - name: Development and Scripting
-  descr: Ruby, Bash, Python and experience with TDD using Rspec Load testing - JMeter, Gatling and writing scenarios in Scala
-
+  descr: "Ruby, Bash, Python and experience with TDD using Rspec Load testing - JMeter, Gatling and writing scenarios in Scala"
 - name: Threat Monitoring
-  descr: OSSEC
+  descr: "OSSEC"
 
 - name: Analytics
-  descr: Elastic stack, Graphite      
+  descr: "Elastic stack, Graphite"
