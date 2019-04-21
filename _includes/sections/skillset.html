@@ -1,9 +1,9 @@
-<h1><span data-i18n="skills.my_skills">Skillset</span></h1>
+<h1><span data-i18n="skills.my_skills">Skills</span></h1>
 
 {% for skillset in site.data.index.skillset %}
     <div class="row">
             <div class="col">
-                <h2 style="margin: 0">{{ skillset.name }}</h2>
+                <h2 style="margin: 0">{{ skillset.name }}</h3>
                 <p style="margin: 0">{{ skillset.descr }}</p>
 
                 {% if project.github %}
