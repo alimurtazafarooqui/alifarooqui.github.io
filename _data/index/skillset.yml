@@ -12,6 +12,7 @@
 
 - name: Development and Scripting
   descr: "Ruby, Bash, Python and experience with TDD using Rspec Load testing - JMeter, Gatling and writing scenarios in Scala"
+  
 - name: Threat Monitoring
   descr: "OSSEC"
 
