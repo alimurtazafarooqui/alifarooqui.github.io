@@ -1,11 +1,19 @@
 - name: HMRC Custom’s Declaration Service Platform Team
-  date: June 2018 - Present
+  link: http://www.google.com/
+  date: June 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Platform Engineer
 
 - name: HMRC Digital Build and Deploy Team
+  link: http://www.google.com/
   date: December 2017 - June 2018
+  job: DevOps Engineer
 
 - name: Equal Experts - Machine Learning Environment
+  link: http://www.google.com/
   date: October 2017 - December 2017
+  job: DevOps Engineer
 
 - name: UKFAST 
   date: December 2013 - September 2017
+  link: http://www.google.com/
+  job: DevOps Engineer
