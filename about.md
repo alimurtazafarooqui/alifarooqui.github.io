@@ -16,17 +16,15 @@ I understand that the difference between a good engineer and a great one is empa
 
 
 ### Skills & Expertise
-Configuration Management - Ansible, Puppet
-Containers and Orchestration - Docker, ECS, LXC, Kubernetes
-Infrastructure as Code - Terraform, CloudFormation, Altus Director Config
-Continuous Integration - Gitlab, Jenkins
-Development and Scripting - Ruby, Bash, Python and experience with TDD using Rspec
-Load testing - Jmeter, Gatling and writing scenarios in Scala
-Threat Monitoring - OSSEC, Investigator, Wazuh
-WAF Training - ModSec, Varnish, IaC ruleset management
-Analytics - Elastic stack, Graphite, Splunk
-
-
+* Configuration Management - Ansible, Puppet
+* Containers and Orchestration - Docker, ECS, LXC, Kubernetes
+* Infrastructure as Code - Terraform, CloudFormation, Altus Director Config
+* Continuous Integration - Gitlab, Jenkins
+* Development and Scripting - Ruby, Bash, Python and experience with TDD using Rspec
+* Load testing - Jmeter, Gatling and writing scenarios in Scala
+* Threat Monitoring - OSSEC, Investigator, Wazuh
+* WAF Training - ModSec, Varnish, IaC ruleset management
+* Analytics - Elastic stack, Graphite, Splunk
 
 ## Work Experience
 
@@ -45,7 +43,9 @@ Worked on automating a Jupyterhub environment deployment. This involved building
 
 #### UKFAST - Manchester; DevOps Engineer, Dec’13- Oct’17 
 As the Lead load testing engineer I was responsible for client stress tests and building the environment for the platform itself. I created a platform that would create user journeys automatically and built tools for the in-house support team to run stress tests for clients with `one-liners` written in bash and deployed through Ansible. 
+
 As a DevOps engineer for the threat monitoring project I was involved with server and agent install automation for all the OSSEC tools across thousands of client server instances. I was involved with creating dashboards in Skedler and in Kibana for creating threat monitoring reports. This work was based around the Elastic Stack.
+
 As a Senior Linux Systems Administrator I worked with clients to provide them with best practice guidance and helped them optimise their web infrastructure. I also helped maintain client infrastructure and implement changes to a large variety of web based applications. 
 
 ## Education & Professional Qualifications
