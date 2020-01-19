@@ -1,10 +1,6 @@
 ---
 layout: post
-title: Introducing the Ali Farooqui Limited Blog
+title: Ali Farooqui Limited Blog
 ---
 
-Hi there,
-
-I'll start sharing my thoughts and experiences here. 
-
-Ali. 
+I'll occasionally share my thoughts, experiences and badly drawn diagrams here. 
