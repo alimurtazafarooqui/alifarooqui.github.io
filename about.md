@@ -30,6 +30,7 @@ I understand that the difference between a good engineer and a great one is empa
 
 #### Coop Membership Team - Manchester - DevSecOps Engineer. May '19 - Present
 I am currently working with the Coop Membership Team as a DevSecOps engineer building automated deployment pipelines. This includes working with API Gateway, Cloudfront and serverless infrastructure, managing the platform with a variety of infrastructure as code tools. 
+
 I am also helping the team write security tools and develop security behaviours that improve the security posture from the ground up. 
 
 #### HMRC Custom’s Declaration Service Platform Team - Manchester; DevOps Engineer. June ‘18 - May '19
