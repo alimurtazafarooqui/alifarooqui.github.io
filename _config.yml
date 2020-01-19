@@ -21,6 +21,9 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  -
+include:
+  - "_files"
 
 # Sidebar link settings
 sidebar_home_link:  true
