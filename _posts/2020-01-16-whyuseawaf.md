@@ -12,7 +12,7 @@ tags:
 
 After a series of recent conversations with friends who primarily work as a security consultants, I was left wondering whether classic WAFs still had a place in the current. As a concept, a web application firewall is advertised as a component in your infrastructure that creates a “shield” against your application and the bad actors on the other side. 
 
-<img src="/assets/whyuseawaf1.png" alt="whyuseawaf1" width="400"/>
+<img src="/assets/whyuseawaf1.png" alt="whyuseawaf1" width="350"/>
 
 This isn’t true. A WAF isn’t a silver bullet. In a lot of cases, for most organisations and development teams, it is an HTTP proxy deployed with regex matches against URLs that triggers many false positives until you disable the rules to make it redundant. 
 
@@ -47,7 +47,7 @@ b) Get visibility to your traffic. If you don’t have this already, you’re in
 c) Depending on the cloud your service lives in, put as much of your infrastructure in an “infrastructure as code” repository as possible. Not only does this make it easy to roll back and try again, it also lets you keep track of your infrastructure. 
 d) Choose a WAF that you can train in isolation. This means a preproduction environment with all of the rules you’ll need. This also means setting up a testbed with a variety of legitimate and malicious user journeys that you can run against your preproduction environment. 
 
-<img src="/assets/whyuseawaf2.png" alt="whyuseawaf2" width="400"/>
+<img src="/assets/whyuseawaf4.png" alt="whyuseawaf4" width="400"/>
 
 ## Which WAF to waffle with?
 
