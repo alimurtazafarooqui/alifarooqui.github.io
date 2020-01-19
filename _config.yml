@@ -1,71 +1,26 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: Ali Farooqui Limited
-email:
-description: DevOps Consultant 
-url: # the base hostname & protocol for your site
-keywords: ["DevOps", "Consultant"]
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Europe/Paris
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+# Setup
+title:            Ali Farooqui Limited
+tagline:          'DevSecOps Consultancy'
+description:      'An experienced DevSecOps engineer with a strong systems administration and automation background, I specialise in infrastructure as code, security and configuration management. I help create processes that remove impediments in the CI/CD pipelines for large scale agile infrastructure deployments.'
+url:              https://alifarooqui.net
+baseurl:          /
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: Ali Farooqui
-  avatar: alifarooquiltd.png
-  job: "DevOps Consultant"
-  bio: ""
-  email: mail@alifarooqui
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: alimurtazafarooqui
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
-  reddit: #username
-  telegram: #username
+author:
+  name:           'Ali Farooqui'
+  url:            https://alifarooqui.net
+
+paginate:         5
+
+# Custom vars
+version:          v2.0.0
+
+github:
+  repo:           https://alifarooqui.net
