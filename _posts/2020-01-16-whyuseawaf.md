@@ -12,7 +12,7 @@ tags:
 
 After a series of recent conversations with friends who primarily work as a security consultants, I was left wondering whether classic WAFs still had a place in the current. As a concept, a web application firewall is advertised as a component in your infrastructure that creates a “shield” against your application and the bad actors on the other side. 
 
-![whyuseawaf1](/assets/whyuseawaf1.png)
+<img src="whyuseawaf1.jpg" alt="whyuseawaf1" width="200"/>
 
 This isn’t true. A WAF isn’t a silver bullet. In a lot of cases, for most organisations and development teams, it is an HTTP proxy deployed with regex matches against URLs that triggers many false positives until you disable the rules to make it redundant. 
 
