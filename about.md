@@ -1,6 +1,7 @@
 ---
 layout: page
 title: whomai
+sidebar_link: true
 ---
 
 <p class="message">
