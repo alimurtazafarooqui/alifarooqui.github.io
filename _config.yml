@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Ali Farooqui Limited
 tagline:          'DevSecOps Consultancy'
 description:      'An experienced DevSecOps engineer with a strong systems administration and automation background, I specialise in infrastructure as code, security and configuration management. I help create processes that remove impediments in the CI/CD pipelines for large scale agile infrastructure deployments.'
-url:              https://alifarooqui.net
+url:              https://alimurtazafarooqui.github.io/
 baseurl:          /
 
 author:
