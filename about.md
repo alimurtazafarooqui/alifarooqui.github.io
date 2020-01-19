@@ -1,6 +1,6 @@
 ---
 layout: page
-title: whomai
+title: whoami
 sidebar_link: true
 ---
 
