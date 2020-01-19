@@ -21,7 +21,9 @@ However, if you’ve worked with a platform team or in close proximity to a secu
 
 <img src="/assets/whyuseawaf2.png" alt="whyuseawaf2" width="1000"/>
 
-But what happens when you get a large amount of traffic from bots trained to do more than just hit your endpoints. What if they’re not only harder to detect, but what if the standard regex matching rules just don’t work against them. Here’s a breakdown of the four generations of bots looks like. 
+But what happens when you get a large amount of traffic from bots trained to do more than just hit your endpoints. What if they’re not only harder to detect, but what if the standard regex matching rules just don’t work against them. 
+
+Here’s a breakdown of the four generations of bots looks like. 
 
 
 * Generation One bots: cURL-like patterns that normally originate from a single origin
