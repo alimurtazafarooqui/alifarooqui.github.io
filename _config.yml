@@ -9,18 +9,18 @@ relative_permalinks: true
 # Setup
 title:            Ali Farooqui Limited
 tagline:          'DevSecOps Consultancy'
-description:      ''
-url:              http://hyde.getpoole.com
+description:      'An experienced DevSecOps engineer with a strong systems administration and automation background, I specialise in infrastructure as code, security and configuration management. I help create processes that remove impediments in the CI/CD pipelines for large scale agile infrastructure deployments.'
+url:              https://alifarooqui.net
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ali Farooqui'
+  url:            https://alifarooqui.net
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          v2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://alifarooqui.net
