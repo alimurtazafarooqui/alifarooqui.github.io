@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why do you have a WAF?
+tags:
+ - security
 ---
 
 # Why do you have a WAF?
