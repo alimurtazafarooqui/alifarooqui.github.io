@@ -5,7 +5,6 @@ tags:
  - security
 ---
 
-# Why do you have a WAF?
 > Not everything that counts can be counted, and not everything that can be counted counts.
 > William Bruce Cameron
 

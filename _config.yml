@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Ali Farooqui Limited
 tagline:          'DevSecOps Consultancy'
-description:      'everybody builds, not many manage to maintain'
+description:      'build, secure, train, maintain'
 url:              https://alimurtazafarooqui.github.io/
 baseurl:          /
 
