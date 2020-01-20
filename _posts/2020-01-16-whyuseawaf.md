@@ -33,7 +33,7 @@ Here’s a breakdown of the four generations of bots looks like.
 
 <img src="/assets/whyuseawaf3.png" alt="whyuseawaf3" width="200"/>
 
-As you can see, a standard WAF is almost useless against these better equipped that have been designed to counter a lot of the out-of-the-box solutions available on the market. 
+As you can see, a standard WAF is almost useless against these better equipped bots that have been designed to counter a lot of the out-of-the-box solutions available on the market. 
 
 ## So what should you do?
 
