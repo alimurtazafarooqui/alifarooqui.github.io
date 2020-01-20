@@ -6,12 +6,12 @@ highlighter:      rouge
 title:            Ali Farooqui Limited
 tagline:          'DevSecOps Consultancy'
 description:      'build, secure, train, maintain'
-url:              https://alimurtazafarooqui.github.io/
+url:              https://alifarooqui.net/
 baseurl:          /
 
 author:
   name:           'Ali Farooqui'
-  url:            https://alimurtazafarooqui.github.io/
+  url:            https://alifarooqui.net/
 
 paginate:         5
 # paginate_path:    '/page:num'
