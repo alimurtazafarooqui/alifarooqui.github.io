@@ -55,7 +55,7 @@ Not all WAFs are created equal. The classic WAF should provide you with the foll
 1. A mechanism to version control your rulesets
 2. A way to update your rules when you need to
 3. A simple rate limiting mechanism
-4. Enough logging data for you to know when your rules are invoked and when they haven’t
+4. Enough logging data for you to know when your rules have been invoked and when they haven’t
 
 Following this pattern, I chose the AWS WAFv2 for testing purposes. This, along with the ability to add other managed rulesets from third party vendors and a mechanism to test user journeys using automated Jmeter allowed for an OK testbed. Once deployed in preproduction, you can spend sometime figuring out which rulesets work and which don’t. I would suggest automating as much of this process as possible. Manual WAF training is boring, and should be avoided where possible. 
 
