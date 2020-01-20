@@ -11,7 +11,7 @@ tags:
 
 ## Start by asking the right questions
 
-After a series of recent conversations with friends who primarily work as a security consultants, I was left wondering whether classic WAFs still had a place in the current. As a concept, a web application firewall is advertised as a component in your infrastructure that creates a “shield” against your application and the bad actors on the other side. 
+After a series of recent conversations with friends who primarily work as a security consultants, I was left wondering whether classic WAFs still had a place in the current landscape. As a concept, a web application firewall is advertised as a component in your infrastructure that creates a “shield” against your application and the bad actors on the other side. 
 
 <img src="/assets/whyuseawaf1.png" alt="whyuseawaf1" width="450"/>
 
