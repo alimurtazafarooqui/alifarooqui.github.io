@@ -33,7 +33,6 @@ Unlike a WAF, which lives at the edge of your network, RASP tools are designed t
 
 <img src="/assets/advancedsecurity2.png" alt="advancedsecurity2" width="400"/>
 
-
 In simple terms, it is a security layer that lives closer to the application, which provides it with better visibility to the calls being made to the application and therefore, more information to block malicious calls. 
 
 #### Why this might not work with your team
