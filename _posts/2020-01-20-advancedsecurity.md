@@ -35,17 +35,19 @@ Unlike a WAF, which lives at the edge of your network, RASP tools are designed t
 
 In simple terms, it is a security layer that lives closer to the application, which provides it with better visibility to the calls being made to the application and therefore, more information to block malicious calls. 
 
-#### Why this might not work with your team
+#### Convincing your developers
 
-Introducing a new runtime requires a number of prerequisites including convincing your development teams to add the runtime to the deployment. 
+You can't just introduce a new runtime without convincing your developers and getting them onboard. You'll need to consider if the RASP implementations offered by the various vendors actually are as seamless as they're made out to be. Your developers need to understand if a change like this changes the way they develop and test the application. 
 
-You’ll also want to consider any latency or additional compute necessary for this runtime change. Depending on your application, you might get pushback on this. 
+There is also almost always a case that needs to be made about changing something close to the application runtime instead of adding one of the next generation WAFs. 
 
-There is also almost always a case that needs to be made about changing something close to the application runtime instead of adding one of the next generation WAFs. WAF vendors have been working on addresses automated tuning, monitoring and API protection too so making a case for a RASP needs to be balanced with your team’s risk tolerance. 
+WAF vendors have been working on addresses automated tuning, monitoring and API protection too so making a case for a RASP needs to be balanced with your team’s risk tolerance. 
 
 #### Performance Degradation
 
-Performance degradation concerns are legitimate in some cases. In recent studies using the the Contrast RASP agent with a Node app deployment. Turning on blocking or monitoring mode can add up to 3 times the overhead in response time per request. This is due to the nature of the RASP deployment. 
+Performance degradation concerns are legitimate in some cases. Additional latency and compute requirements for this runtime change need to be quantified. 
+
+In recent studies using the the Contrast RASP agent with a Node app deployment. Turning on blocking or monitoring mode can add up to 3 times the overhead in response time per request. This is due to the nature of the RASP deployment. 
 
 The smallest application response time increase was 55%. This could potentially be a deal breaker. I would however suggest setting up a test bed and following the procedure highlighted below. 
 
@@ -119,7 +121,7 @@ It's easy to build. Everyone wants to build these pipelines. You now need to foc
 Keep an eye out for the next blog post where we'll talk about creating these pipelines and keeping them in shape. 
 
 
-## References
+## Further reading
 [Dynamic Binary Instrumentation Technology - Kunping Du, Fei Kang, Hui Shu, Li Dai](https://doi.org/10.2991/citcs.2012.132)
 [Insertion, Evasion, and Denial of Service - Ptacek, Newsham](https://www.cs.unc.edu/~fabian/course_papers/PtacekNewsham98.pdf) 
 [ITSP Brighttalk Webinar - Sean Martin](https://cdn02.brighttalk.com/core/asset/video/283443/mp4/320/video_1507140442.mp4)
