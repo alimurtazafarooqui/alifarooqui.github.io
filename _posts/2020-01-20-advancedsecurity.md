@@ -31,7 +31,7 @@ Gartner defines RASP as “a security technology that is built or linked into an
 
 Unlike a WAF, which lives at the edge of your network, RASP tools are designed to run in the application security management layer and uses mechanisms like dynamic binary analysis, JVM replacement and virtualisation for better decision making. 
 
-<img src="/assets/advancedsecurity2.jpg" alt="advancedsecurity2" width="500"/>
+<img src="/assets/advancedsecurity2.jpg" alt="advancedsecurity2" width="400"/>
 
 
 In simple terms, it is a security layer that lives closer to the application, which provides it with better visibility to the calls being made to the application and therefore, more information to block malicious calls. 
