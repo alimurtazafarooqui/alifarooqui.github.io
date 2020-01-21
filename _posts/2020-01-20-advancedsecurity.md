@@ -130,12 +130,20 @@ Keep an eye out for the next blog post where we'll talk about creating these pip
 
 
 ## Further reading
-[Dynamic Binary Instrumentation Technology - Kunping Du, Fei Kang, Hui Shu, Li Dai](https://doi.org/10.2991/citcs.2012.132)
+[Dynamic Binary Instrumentation Technology - Kunping Du, Fei Kang, Hui Shu, Li Dai](https://doi.org/10.2991/citcs.2012.132) 
+
 [Insertion, Evasion, and Denial of Service - Ptacek, Newsham](https://www.cs.unc.edu/~fabian/course_papers/PtacekNewsham98.pdf) 
-[ITSP Brighttalk Webinar - Sean Martin](https://cdn02.brighttalk.com/core/asset/video/283443/mp4/320/video_1507140442.mp4)
-[Investigating the Effectiveness of RASP - Alexander Fry](https://www.sans.org/reading-room/whitepapers/application/runtime-application-self-protection-rasp-investigation-effectiveness-rasp-solution-protecting-vulnerable-target-applications-38950)
-[Jumpstarting Your DevSecOps Pipeline with IAST and RASP](https://www.youtube.com/watch?v=9QJZkPISB58)
-[Weaving Application Security into the Software Development Life Cycle](https://www.contrastsecurity.com/weaving-application-security-into-the-software-development-life-cycle)
-[Continuous Application Security at Scale with IAST and RASP — Transf…](https://www.slideshare.net/planetlevel/continuous-application-security-at-scale-with-iast-and-rasp-transforming-devops-into-devsecops-64283374)
-[DevOpsSec - Jim Bird](https://www.oreilly.com/library/view/devopssec/9781491971413/ch04.html)
-[Gartner Emerging Security Technology Review 2017](https://www.gartner.com/en/documents/3803473/emerging-technology-analysis-runtime-application-self-pr)
+
+[ITSP Brighttalk Webinar - Sean Martin](https://cdn02.brighttalk.com/core/asset/video/283443/mp4/320/video_1507140442.mp4) 
+
+[Investigating the Effectiveness of RASP - Alexander Fry](https://www.sans.org/reading-room/whitepapers/application/runtime-application-self-protection-rasp-investigation-effectiveness-rasp-solution-protecting-vulnerable-target-applications-38950) 
+
+[Jumpstarting Your DevSecOps Pipeline with IAST and RASP](https://www.youtube.com/watch?v=9QJZkPISB58) 
+
+[Weaving Application Security into the Software Development Life Cycle](https://www.contrastsecurity.com/weaving-application-security-into-the-software-development-life-cycle) 
+
+[Continuous Application Security at Scale with IAST and RASP — Transf…](https://www.slideshare.net/planetlevel/continuous-application-security-at-scale-with-iast-and-rasp-transforming-devops-into-devsecops-64283374) 
+
+[DevOpsSec - Jim Bird](https://www.oreilly.com/library/view/devopssec/9781491971413/ch04.html) 
+
+[Gartner Emerging Security Technology Review 2017](https://www.gartner.com/en/documents/3803473/emerging-technology-analysis-runtime-application-self-pr) 
