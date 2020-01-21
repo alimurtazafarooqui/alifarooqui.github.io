@@ -17,7 +17,7 @@ After recently deploying and testing the new AWS WAFv2, I decided to dig deeper 
 
 We’ve all worked with large teams where risks are put on backlogs, and the technical debt pile grows as your teams add prioritise features and push maintenance work further down the list of visible work. 
 
-<img src="/assets/advancedsecurity1.png" alt="advancedsecurity1" width="600"/>
+<img src="/assets/advancedsecurity1.png" alt="advancedsecurity1" width="700"/>
 
 If you are part of the development process or manage the platform, is your responsibility to make sure the stakeholders understand why security and operability matter. The stakeholders need to understand the importance of data, what the risks are and decide what resources are required to keep on top of these risks. 
 
@@ -31,7 +31,7 @@ Gartner defines RASP as “a security technology that is built or linked into an
 
 Unlike a WAF, which lives at the edge of your network, RASP tools are designed to run in the application security management layer and uses mechanisms like dynamic binary analysis, JVM replacement and virtualisation for better decision making. 
 
-<img src="/assets/advancedsecurity2.png" alt="advancedsecurity2" width="400"/>
+<img src="/assets/advancedsecurity2.png" alt="advancedsecurity2" width="600"/>
 
 In simple terms, it is a security layer that lives closer to the application, which provides it with better visibility to the calls being made to the application and therefore, more information to block malicious calls. 
 
@@ -51,7 +51,7 @@ In recent studies using the the Contrast RASP agent with a Node app deployment. 
 
 The smallest application response time increase was 55%. This could potentially be a deal breaker. I would however suggest setting up a test bed and following the procedure highlighted below. 
 
-<img src="/assets/advancedsecurity3.png" alt="advancedsecurity3" width="600"/>
+<img src="/assets/advancedsecurity3.png" alt="advancedsecurity3" width="350"/>
 
 1. Test your application performance in request time per second with a standard set of user journeys without a WAF or any network hops. 
 2. Deploy your application with your current network stack, and measure the this again. 
