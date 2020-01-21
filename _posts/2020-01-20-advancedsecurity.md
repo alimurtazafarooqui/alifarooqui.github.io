@@ -15,7 +15,7 @@ After recently deploying and testing the new AWS WAFv2, I decided to dig deeper 
 
 ## Bringing the stakeholders inline
 
-We’ve all worked with large teams where risks are put on backlogs, and the technical debt pile grows as your teams add prioritise features and push maintenance work further down the list of visible work. 
+We’ve all worked with large teams where risks are put on backlogs, and the technical debt pile grows as you see features prioritised and maintenance work pushed further down your Jira board. 
 
 <img src="/assets/advancedsecurity1.png" alt="advancedsecurity1" width="700"/>
 
