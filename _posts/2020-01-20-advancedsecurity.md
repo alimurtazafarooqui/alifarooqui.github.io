@@ -16,8 +16,7 @@ After recently deploying and testing the new AWS WAFv2, I decided to dig deeper 
 ## Bringing the stakeholders inline
 We’ve all worked with large teams where the risks are put on backlogs, and the technical debt pile grows as your teams add prioritise features and push maintenance work further down the list of visible work. 
 
-<img src="/assets/advancedsecurity1.jpg" alt="advancedsecurity1" width="600"/>
-
+<img src="/assets/advancedsecurity1.png" alt="advancedsecurity1" width="600"/>
 
 It is your responsibility to make sure the stakeholders understand why security and operability matter. The stakeholders need to understand the importance of data, what the risks are and decide what resources are required to keep on top of these risks. 
 
