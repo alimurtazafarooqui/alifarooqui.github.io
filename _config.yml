@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ali Farooqui
+title:            'Ali Farooqui'
 tagline:          'DevSecOps Consultancy'
 description:      'build, secure, train, maintain'
 url:              https://alifarooqui.net/
@@ -21,7 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  -
+
 include:
   - "_files"
 
