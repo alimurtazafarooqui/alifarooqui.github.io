@@ -54,9 +54,9 @@ The smallest application response time increase was 55%. This could potentially 
 <img src="/assets/advancedsecurity3.png" alt="advancedsecurity3" width="350"/>
 
 1. Test your application performance in request time per second with a standard set of user journeys without a WAF or any network hops. 
-2. Deploy your application with your current network stack, and measure the this again. 
+2. Deploy your application with your current network stack, and measure this again. 
 3. Run the application with your automated “malicious” user journeys and make a note of this too. 
-4. Now deploy your RASP and run the same three set of tests again.
+4. Now deploy your RASP and run the same set of tests again.
 
 For a lot of teams, this is should provide enough feedback to go ahead with a more refined proof of concept.
 
