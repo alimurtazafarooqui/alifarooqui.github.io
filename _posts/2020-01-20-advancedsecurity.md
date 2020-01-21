@@ -31,7 +31,7 @@ Gartner defines RASP as “a security technology that is built or linked into an
 
 Unlike a WAF, which lives at the edge of your network, RASP tools are designed to run in the application security management layer and uses mechanisms like dynamic binary analysis, JVM replacement and virtualisation for better decision making. 
 
-<img src="/assets/advancedsecurity2.jpg" alt="advancedsecurity2" width="600"/>
+<img src="/assets/advancedsecurity2.jpg" alt="advancedsecurity2" width="500"/>
 
 
 In simple terms, it is a security layer that lives closer to the application, which provides it with better visibility to the calls being made to the application and therefore, more information to block malicious calls. 
@@ -63,7 +63,7 @@ For a lot of teams, this is should provide enough feedback to go ahead with a mo
 
 Some languages and platforms do not have mature offerings. This could be an immediate deal breaker. Gartner provide a list of twenty vendors with RASP capabilities and this should be the starting point for your proof of concept. 
 
-<img src="/assets/advancedsecurity4.png" alt="advancedsecurity4" width="600"/>
+<img src="/assets/advancedsecurity4.png" alt="advancedsecurity4" width="700"/>
 
 
 ## Next Generation WAFs
@@ -77,7 +77,7 @@ There are multiple vendors that provide additional bot detection capabilities. H
 2. Imperva - Distil Networks
 3. Signal Sciences
 
-<img src="/assets/advancedsecurity5.png" alt="advancedsecurity5" width="600"/>
+<img src="/assets/advancedsecurity5.png" alt="advancedsecurity5" width="300"/>
 
 
 
@@ -92,7 +92,7 @@ When deploying any solution, the acceptance criteria for completion needs to inc
 
 Securing your platform and addressing your risks might require additional human interaction. This is something you should always keep in mind. 
 
-<img src="/assets/advancedsecurity6.png" alt="advancedsecurity6" width="600"/>
+<img src="/assets/advancedsecurity6.png" alt="advancedsecurity6" width="700"/>
 
 
 
@@ -105,7 +105,7 @@ When addressing the security infrastructure for any team, I start the process by
 
 Here’s what your pipeline might look like. 
 
-<img src="/assets/advancedsecurity7.png" alt="advancedsecurity7" width="600"/>
+<img src="/assets/advancedsecurity7.png" alt="advancedsecurity7" width="1200"/>
 
 
 
