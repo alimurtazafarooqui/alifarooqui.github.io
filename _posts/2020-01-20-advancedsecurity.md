@@ -109,7 +109,7 @@ When addressing the security infrastructure for any team, I start the process by
 
 Here’s what your pipeline might look like. 
 
-<img src="/assets/advancedsecurity7.png" alt="advancedsecurity7" width="1200"/>
+<img src="/assets/advancedsecurity7.png" alt="advancedsecurity7" width="1400"/>
 
 
 ## What's next?
