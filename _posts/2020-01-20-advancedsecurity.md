@@ -124,7 +124,7 @@ Here’s what your pipeline might look like.
 
 Setting up a functional pipeline is hard work. This requires the love, care and attention of a skilled team of developers, platform engineers and security engineers. 
 
-It's easy to build. Everyone wants to build these pipelines. You now need to focus on maintaining it. Focus on the technical debt left behind everytime there is a feature added to your estate. 
+It's exciting to build. You now need to focus on maintaining it. Focus on the technical debt left behind everytime there is a feature added to your estate. 
 
 Keep an eye out for the next blog post where we'll talk about creating these pipelines and keeping them in shape. 
 
