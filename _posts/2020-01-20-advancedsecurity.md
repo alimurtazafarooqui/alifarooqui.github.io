@@ -23,6 +23,14 @@ If you are part of the development process or manage the platform, it is your re
 
 The cost of an unpatched security vulnerability or an unattended API scraping attack isn’t immediately obvious. This needs to be visualised in a way that makes sense, not only to your stakeholders but to you and your team so that you can prioritise your backlog. 
 
+Start assessing the risk, giving it a rating by comparing the best and worst case scenarios, and providing context. 
+
+1. Does the risk have any public precedent? Are there any documented cases or scenarios you can refer to?
+2. Is there a way to quantify or T-shirt size the effort involved in putting a short term fix in place. 
+3. Is there an obvious long term fix and is your team equipped to deploy it?
+
+Document and visualise the risks and patches where possible. Having your stakeholders on your side makes operability and maintenance a much easier, and dare I say, enjoyable task. 
+
 ## IAST and RASP
 
 IAST stands for Interactive Application Security Testing and IAST tooling allows security vulnerability checks to be run with automated tests during and after your application deployments.
