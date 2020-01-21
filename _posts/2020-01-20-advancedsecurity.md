@@ -14,13 +14,14 @@ I bored myself writing that title. If you’re still here, we’re following on 
 After recently deploying and testing the new AWS WAFv2, I decided to dig deeper to see if other alternative security layers add any value to applications that have public APIs. 
 
 ## Bringing the stakeholders inline
-We’ve all worked with large teams where the risks are put on backlogs, and the technical debt pile grows as your teams add prioritise features and push maintenance work further down the list of visible work. 
+
+We’ve all worked with large teams where risks are put on backlogs, and the technical debt pile grows as your teams add prioritise features and push maintenance work further down the list of visible work. 
 
 <img src="/assets/advancedsecurity1.png" alt="advancedsecurity1" width="600"/>
 
-It is your responsibility to make sure the stakeholders understand why security and operability matter. The stakeholders need to understand the importance of data, what the risks are and decide what resources are required to keep on top of these risks. 
+If you are part of the development process or manage the platform, is your responsibility to make sure the stakeholders understand why security and operability matter. The stakeholders need to understand the importance of data, what the risks are and decide what resources are required to keep on top of these risks. 
 
-The cost of an unpatched security vulnerability or an unattended API scraping attack isn’t something that is immediately obvious to stakeholders. This needs to be visualised in a way that makes sense, not only to them but to allow you to prioritise your backlogs. 
+The cost of an unpatched security vulnerability or an unattended API scraping attack isn’t something that is immediately obvious to stakeholders. This needs to be visualised in a way that makes sense, not only to them but to allow you to prioritise your backlog. 
 
 ## IAST and RASP
 
@@ -95,8 +96,6 @@ When deploying any solution, the acceptance criteria for completion needs to inc
 <img src="/assets/advancedsecurity6.png" alt="advancedsecurity6" width="700"/>
 
 Securing your platform and addressing your risks might require additional human interaction. This is something you should always keep in mind. 
-
-
 
 
 ## Agile Security Operations
