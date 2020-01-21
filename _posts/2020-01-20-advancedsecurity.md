@@ -37,7 +37,8 @@ Unlike a WAF, which lives at the edge of your network, RASP tools are designed t
 In simple terms, it is a security layer that lives closer to the application, which provides it with better visibility to the calls being made to the application and therefore, more information to block malicious calls. 
 
 #### Why this might not work with your team
- Introducing a new runtime requires a number of prerequisites including convincing your development teams to add the runtime to the deployment. 
+
+Introducing a new runtime requires a number of prerequisites including convincing your development teams to add the runtime to the deployment. 
 
 You’ll also want to consider any latency or additional compute necessary for this runtime change. Depending on your application, you might get pushback on this. 
 
@@ -49,13 +50,12 @@ Performance degradation concerns are legitimate in some cases. In recent studies
 
 The smallest application response time increase was 55%. This could potentially be a deal breaker. I would however suggest setting up a test bed and following the procedure highlighted below. 
 
+<img src="/assets/advancedsecurity3.png" alt="advancedsecurity3" width="600"/>
+
 1. Test your application performance in request time per second with a standard set of user journeys without a WAF or any network hops. 
 2. Deploy your application with your current network stack, and measure the this again. 
 3. Run the application with your automated “malicious” user journeys and make a note of this too. 
 4. Now deploy your RASP and run the same three set of tests again.
-
-<img src="/assets/advancedsecurity3.png" alt="advancedsecurity3" width="600"/>
-
 
 For a lot of teams, this is should provide enough feedback to go ahead with a more refined proof of concept.
 
@@ -67,6 +67,7 @@ Some languages and platforms do not have mature offerings. This could be an imme
 
 
 ## Next Generation WAFs
+
 We previously discussed the four generations of bots. These next generation WAFs provide better intelligence when dealing with crafty bots and malicious actors that know what they want from your infrastructure. 
 
 For any application that is getting scraped or experiencing credential stuffing, you want some level of anti-automation defense. 
@@ -76,10 +77,13 @@ There are multiple vendors that provide additional bot detection capabilities. H
 1. Shape Security
 2. Imperva - Distil Networks
 3. Signal Sciences
+4. Reblaze
+5. Fortinet
+6. F5
 
 <img src="/assets/advancedsecurity5.png" alt="advancedsecurity5" width="300"/>
 
-
+These WAFs need to be at the edge of your network. Testing them requires getting a trial and having a testbed ready to test the effectiveness of your WAF. 
 
 ## Avoid SOC Fatigue
 Your security operations centre team are short on staff, resources and visibility in a lot of cases. The fact that most security “bundles” add to their pain instead of reducing it should be a concern for most application development teams. 
@@ -90,9 +94,10 @@ When deploying any solution, the acceptance criteria for completion needs to inc
 2. Additional runbooks for out of hours support. This should be put together with the help of your SOC. This needs to be adjusted based on the skillset of the first responders. 
 3. A set of feedback loops that the SOC has the ability to participate in. This includes any logging, tuning, training or performance measurement tweaks.
 
+<img src="/assets/advancedsecurity6.png" alt="advancedsecurity6" width="700"/>
+
 Securing your platform and addressing your risks might require additional human interaction. This is something you should always keep in mind. 
 
-<img src="/assets/advancedsecurity6.png" alt="advancedsecurity6" width="700"/>
 
 
 
