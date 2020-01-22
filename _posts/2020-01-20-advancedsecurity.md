@@ -21,7 +21,7 @@ We’ve all worked with large teams where risks are put on backlogs, and the tec
 
 If you are part of the development process or manage the platform, it is your responsibility to make sure the stakeholders understand why security and operability matter. They need to understand the importance of data, what the risks are and decide what resources are required to keep on top of these risks. 
 
-The cost of an unpatched security vulnerability or an unattended API scraping attack isn’t immediately obvious. This needs to be visualised in a way that makes sense, not only to your stakeholders but to you and your team so that you can prioritise your backlog. 
+Aside from your maintenance and technical debt pile, the cost of an unpatched security vulnerability or an unattended API scraping attack isn’t immediately obvious. This needs to be visualised in a way that makes sense, not only to your stakeholders but to you and your team so that you can prioritise your backlog. 
 
 Start assessing the risk, giving it a rating by comparing the best and worst case scenarios, and providing context. 
 
