@@ -45,7 +45,7 @@ In simple terms, it is a security layer that lives closer to the application, wh
 
 #### Convincing your developers
 
-You can't just introduce a new runtime without convincing your developers and getting them onboard. You'll need to consider if the RASP implementations offered by the various vendors actually are as seamless as they're made out to be. Your developers need to understand if a change like this affects the development cycle. 
+You can't introduce a new runtime without convincing your developers and getting them onboard. You'll need to consider if the RASP implementations offered by the various vendors actually are as seamless as they're made out to be. Your developers need to understand if a change like this affects the development cycle. 
 
 There is also almost always a case that needs to be made about changing something close to the application runtime instead of adding one of the next generation WAFs. 
 
