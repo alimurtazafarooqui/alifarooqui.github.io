@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "whoami"
-    url: /whoami/
+    url: /docs/whoami/
   - title: "posts"
-    url: /year-archive/
+    url: /docs/year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
