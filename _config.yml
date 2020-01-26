@@ -13,7 +13,7 @@ url                      : "alifarooqui.net" # the base hostname & protocol for 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "avatar.jpg"
+logo                     :
 masthead_title           : "Ali Farooqui Limited"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 160
@@ -84,6 +84,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/alifarooqui_"
+    - "https://www.instagram.com/itano92"
 
 # Analytics
 analytics:
