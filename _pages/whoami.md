@@ -5,6 +5,8 @@ excerpt: "I help create processes that remove impediments in the CI/CD pipelines
 layout: posts
 author_profile: true
 toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 An experienced DevSecOps engineer with a strong systems administration and automation background, I specialise in infrastructure as code, security and configuration management. I help create processes that remove impediments in the CI/CD pipelines for large scale agile infrastructure deployments.
