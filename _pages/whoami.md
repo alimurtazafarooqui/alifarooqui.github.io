@@ -2,7 +2,8 @@
 permalink: /whoami/
 title: "Ali Farooqui"
 excerpt: "I help create processes that remove impediments in the CI/CD pipelines"
-last_modified_at: 2020-01-11T15:46:43-04:00
+layout: posts
+author_profile: true
 toc: true
 ---
 
