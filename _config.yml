@@ -9,7 +9,7 @@ title_separator          : "-"
 subtitle                 : "DevSecOps"
 name                     : "Ali Farooqui"
 description              : "build, secure, train, maintain"
-url                      : "alifarooqui.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://alifarooqui.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -72,14 +72,8 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : alifarooqui_
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : &twitter "afarooqui_"
 og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -103,9 +97,6 @@ author:
   location         : "United Kingdom"
   email            :
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/alifarooqui_"
@@ -116,24 +107,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://alifarooqui.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      # url: "https://twitter.com/alifarooqui_"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/itano92"
 
 
 # Reading Files
