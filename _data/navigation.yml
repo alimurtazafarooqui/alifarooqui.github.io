@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "whoami"
-    url: /whoami/whoami.md
+    url: /whoami/
   - title: "posts"
     url: /year-archive/
   # - title: "Sample Collections"
