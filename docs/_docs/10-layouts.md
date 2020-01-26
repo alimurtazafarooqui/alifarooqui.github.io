@@ -689,7 +689,7 @@ If you're adding a sidebar navigation menu to several pages the use of Front Mat
 
 ```yaml
 defaults:
-  # _docs
+  # whoami
   - scope:
       path: ""
       type: docs

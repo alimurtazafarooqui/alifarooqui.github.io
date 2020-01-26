@@ -230,7 +230,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
+  # whoami
   - scope:
       path: ""
       type: docs
