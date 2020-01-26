@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why do you have a WAF?
 tags:
  - security
@@ -13,13 +12,13 @@ tags:
 
 After a series of recent conversations with friends who primarily work as a security consultants, I was left wondering whether classic WAFs still had a place in the current landscape. As a concept, a web application firewall is advertised as a component in your infrastructure that creates a “shield” against your application and the bad actors on the other side. 
 
-<img src="/assets/whyuseawaf1.png" alt="whyuseawaf1" width="450"/>
+<img src="/assets/whyuseawaf/whyuseawaf1.png" alt="whyuseawaf1" width="450"/>
 
 This isn’t true. A WAF isn’t a silver bullet. In a lot of cases, for most organisations and development teams, it is an HTTP proxy deployed with regex matches against URLs that triggers many false positives until you disable the rules to make it redundant. 
 
 However, if you’ve worked with a platform team or in close proximity to a security operations centre, you’ll find organisations often get bot traffic and random bursts of traffic from hard to pinpoint sources. For most security teams, a partially trained WAF with an intrusion detection system is sufficient. 
 
-<img src="/assets/whyuseawaf2.png" alt="whyuseawaf2" width="1000"/>
+<img src="/assets/whyuseawaf/whyuseawaf2.png" alt="whyuseawaf2" width="1000"/>
 
 But what happens when you get a large amount of traffic from bots trained to do more than just hit your endpoints. What if they’re not only harder to detect, but what if the standard regex matching rules just don’t work against them. 
 
@@ -31,7 +30,7 @@ Here’s a breakdown of the four generations of bots looks like.
 * Generation Three bots: These bots can simulate mouse and finger movement and are able to cycle through thousands of IPs.
 * Generation Four bots: These are intelligent bots that can get around entropy calculators in some cases by randomising mouse and finger movement to behave more like humans. These bots are designed to mimic humans, and are used for API abuse, card cracking and credential stuffing. 
 
-<img src="/assets/whyuseawaf3.png" alt="whyuseawaf3" width="200"/>
+<img src="/assets/whyuseawaf/whyuseawaf3.png" alt="whyuseawaf3" width="200"/>
 
 As you can see, a standard WAF is almost useless against these better equipped bots that have been designed to counter a lot of the out-of-the-box solutions available on the market. 
 
@@ -46,7 +45,7 @@ Start by setting up short and long term goals for your platform. Make sure your 
 3. Depending on the cloud your service lives in, put as much of your infrastructure in an “infrastructure as code” repository as possible. Not only does this make it easy to roll back and try again, it also lets you keep track of your infrastructure. 
 4. Choose a WAF that you can train in isolation. This means a preproduction environment with all of the rules you’ll need. This also means setting up a testbed with a variety of legitimate and malicious user journeys that you can run against your preproduction environment. 
 
-<img src="/assets/whyuseawaf4.png" alt="whyuseawaf4" width="400"/>
+<img src="/assets/whyuseawaf/whyuseawaf4.png" alt="whyuseawaf4" width="400"/>
 
 ## Which WAF to waffle with?
 
@@ -61,7 +60,7 @@ Following this pattern, I chose the AWS WAFv2 for testing purposes. This, along 
 
 The new AWS WAF can be paired with a cloudfront distribution to allow you to remove some of the latency and add sufficient routing logic using lambda@edge. 
 
-<img src="/assets/whyuseawaf5.png" alt="whyuseawaf5" width="200"/>
+<img src="/assets/whyuseawaf/whyuseawaf5.png" alt="whyuseawaf5" width="200"/>
 
 
 ## Long term goals

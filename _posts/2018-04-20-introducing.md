@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ali Farooqui Limited Blog
 ---
 
