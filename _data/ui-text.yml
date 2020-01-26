@@ -29,7 +29,7 @@ en: &DEFAULT_EN
   related_label              : "You may also enjoy"
   follow_label               : "Follow:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  powered_by                 : ""
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent posts"
@@ -1555,7 +1555,7 @@ hi: &DEFAULT_HI
   back_to_top                : "शीर्ष पर वापस"
 hi-IN:
   <<: *DEFAULT_HI
-  
+
 # Catalan
 # --------------
 ca: &DEFAULT_CA
@@ -1607,7 +1607,7 @@ ca: &DEFAULT_CA
   back_to_top                : "Torna a dalt"
 ca-ES:
   <<: *DEFAULT_CA
-  
+
 # Another locale
 # --------------
 #
