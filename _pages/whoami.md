@@ -25,6 +25,7 @@ I understand that the difference between a good engineer and a great one is empa
 * Load testing - Jmeter, Gatling and writing scenarios in Scala
 * Threat Monitoring - OSSEC, Investigator, Wazuh
 * WAF Training - ModSec, Varnish, IaC ruleset management
+* Security Testing - ZAP, Burp, Metasploit
 * Analytics - Elastic stack, Graphite, Splunk
 
 ## Work Experience
