@@ -5,7 +5,7 @@ tags:
 ---
 Are people in complete control of how they react to the situations they are put in? After passively reading through a few beginner books on philosophy, I found Seneca and Marcus Aurelius. 
 
-I’ve found it hard to follow some of these principles. Humans aren’t naturally inclined to accept the process of death, or prepare for the worst. I have found value in some of these stoic virtues, and I have tried to embed them in my life where possible. 
+Humans aren’t naturally inclined to accept the process of death, or prepare for the worst. I have found value in some of these stoic virtues, and I have tried to embed them in my life where possible. 
 
 <img src="/assets/notesonstoicism/stoic1.jpeg" alt="marcusaurelius" width="700"/>
 
