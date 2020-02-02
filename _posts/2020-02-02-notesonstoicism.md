@@ -1,7 +1,7 @@
 ---
-title: Notes on toicism as an engineer
+title: Notes on stoicism as an engineer
 tags:
- - security
+ - philosophy
 ---
 Are people in complete control of how they react to the situations they are put in? After passively reading through a few beginner books on philosophy, I found Seneca and Marcus Aurelius. 
 
