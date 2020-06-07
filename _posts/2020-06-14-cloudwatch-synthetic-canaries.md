@@ -27,6 +27,7 @@ Generally, building the first user journey is easy with the GUI workflow wizard.
 
 However, the synthetics library is quite simple as far as standard functions go. You can click, verify text, wait, navigate, input text and click-navigate. There are additional plugins for logging.
 
+
 ## The API and the CLI 
 
 You can review the CLI documents here.
@@ -34,6 +35,7 @@ https://docs.aws.amazon.com/cli/latest/reference/synthetics/index.html
 
 The additional library functions can be accessed here.
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Synthetics_Canaries_Function_Library.html
+
 
 ## Template
 
@@ -75,6 +77,3 @@ exports.handler = async () => {
     return await flowBuilderBlueprint();
 };
 ```
-
-
-
