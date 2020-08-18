@@ -6,6 +6,9 @@ tags:
 
 ## The basics
 
+<img src="/assets/botdetection/catandmouse.png" alt="cloudwatchcanary" width="300"/>
+
+
 On a recent project, I’ve been working on bot protection capabilities. This has allowed me to take a deep dive into the world of headless browsers, bot creation and evasion. It’s a murky world where the good guys are building website scrapers and automation utilities to feed pipelines for legitmate purposes, and the less said about the bad guys, the better. 
 
 Disregarding the morality behind bot creation, it’s a surprisingly nuanced cat and mouse game where various security service providers and application security teams will constantly work on upgrading their bot detection capabilities, while the bot creators spend just as much time add entropy to their solutions to get around these measures.
@@ -44,9 +47,14 @@ Stick around for Lesson 2 for my findings around stealth based webdrivers and en
 Due to the nature of the issue and the stakes involved, there is a large amount of research put into stopping nuanced bots from scraping or attacking websites. A number of easily consumable resources are available on the internets which I’ll reference below for further reading 
 
 [Intoli and it's resources](https://intoli.com/)
+
 [Puppeteer from Google](https://developers.google.com/web/tools/puppeteer)
+
 [Selenium with Python](https://selenium-python.readthedocs.io/)
+
 [Browser detection from Antoine Vastel](https://antoinevastel.com/bot%20detection/2019/07/19/detecting-chrome-headless-v3.html)
+
 [Antibot Scripts from sannysoft](https://bot.sannysoft.com/)
+
 [Datadome's bot protection writeup](https://datadome.co/bot-management-protection/bot-detection-how-to-identify-bot-traffic-to-your-website/)
 
