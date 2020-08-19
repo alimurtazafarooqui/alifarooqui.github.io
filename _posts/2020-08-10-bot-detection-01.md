@@ -11,7 +11,7 @@ tags:
 
 On a recent project, I’ve been working on bot protection capabilities. This has allowed me to take a deep dive into the world of headless browsers, bot creation and evasion. It’s a murky world where the good guys are building website scrapers and automation utilities to feed pipelines for legitmate purposes, and the less said about the bad guys, the better. 
 
-Disregarding the morality behind bot creation, it’s a surprisingly nuanced cat and mouse game where various security service providers and application security teams will constantly work on upgrading their bot detection capabilities, while the bot creators spend just as much time add entropy to their solutions to get around these measures.
+Disregarding the morality behind bot creation, it’s a surprisingly nuanced cat and mouse game where various security service providers and application security teams will constantly work on upgrading their bot detection capabilities, while the bot creators spend just as much time adding entropy to their solutions to get around these measures.
 
 ## Common tools
 
