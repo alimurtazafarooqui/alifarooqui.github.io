@@ -32,19 +32,21 @@ With many of these headless tools, the idea is for developers to build scalable 
 However, headless browsers have some tell tales. 
 
 * They normally leave the useragents as “Headless_x_y_x” out of the box
-* They’ll leave meta data specific to the webdriver in the requests
-* Certain browser features will be left disables. This can include things like sensor information or notification options
+* They’ll leave metadata specific to the webdriver in the requests
+* Certain browser features will be left disabled. This can include things like sensor information or notification options
 * They will have no language or region specific information which makes them easier to pick up
 
 These are the simplest of details, and with a script running serverside, you should be able to enforce a simple webdriver check.
 
-However, all of the above are very easy to update or hide. So easy, that the first google entry for me let me copy and paste the contents of a script, add a `driver.get("myurl.com")` and I was able to evade the simple checks. 
+However, all of the above are very easy to remove or hide. So easy, that the first google entry had all the information available. A simple copy/paste on the contents of the script, a short navigation update with  `driver.get("myurl.com")` and I was able to evade the simple checks. 
 
-Stick around for Lesson 2 for my findings around stealth based webdrivers and entropy checks.
+Stick around for part two for my findings around webdrivers and some sample scripts.
 
 ## Further Reading
 
-Due to the nature of the issue and the stakes involved, there is a large amount of research put into stopping nuanced bots from scraping or attacking websites. A number of easily consumable resources are available on the internets which I’ll reference below for further reading 
+Due to the nature of this topic, there is a large amount of research put into stopping nuanced bots from scraping or attacking websites. 
+
+A number of easily consumable resources are available on the internets which I’ll reference below for further reading.
 
 [Intoli and it's resources](https://intoli.com/)
 

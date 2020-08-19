@@ -7,7 +7,7 @@ tags:
 
 ## The Webdriver
 
-This is lesson 02 in this series where I’m dumpin what I’ve learnt about bot detection. 
+This is part 02 in this series where I’m dumpin what I’ve learnt about bot detection. 
 
 The webdriver is based on the [W3 standard](https://w3c.github.io/webdriver/) to let you control user agents. 
 
