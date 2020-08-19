@@ -79,7 +79,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/alifarooqui_"
-    - "https://www.instagram.com/itano92"
 
 # Analytics
 analytics:
@@ -115,9 +114,7 @@ author:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       #url: "https://gitlab.com/placeholder"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/itano92"
+
 
 # Site Footer
 footer:
@@ -142,9 +139,7 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       #url: "https://gitlab.com/stmsy"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/itano92"
+
 
 
 # Reading Files
