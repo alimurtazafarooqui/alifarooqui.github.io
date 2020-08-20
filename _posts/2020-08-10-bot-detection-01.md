@@ -6,7 +6,7 @@ tags:
 
 ## The basics
 
-<img src="/assets/botdetection/catandmouse.png" alt="catandmouse" width="300"/>
+<img src="/assets/botdetection/catandmouse.jpg" alt="catandmouse" width="300"/>
 
 
 On a recent project, I’ve been working on bot protection capabilities. This has allowed me to take a deep dive into the world of headless browsers, bot creation and evasion. It’s a murky world where the good guys are building website scrapers and automation utilities to feed pipelines for legitmate purposes, and the less said about the bad guys, the better. 
