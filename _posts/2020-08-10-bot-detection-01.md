@@ -4,8 +4,6 @@ tags:
  - security
 ---
 
-## The basics
-
 <img src="/assets/botdetection/catandmouse.jpg" alt="catandmouse" width="700"/>
 
 
