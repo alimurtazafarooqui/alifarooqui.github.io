@@ -5,7 +5,6 @@ tags:
  - culture
 ---
 
-# DevSecOps and shifting left
 With the changing needs of organisation to deliver applications and services at a faster pace, continuous integration and continuous deployment have been considered as the key to faster delivery. 
 
 DevOps adoption has become widespread to address the obvious advantage they provide organisations. With the increasing need for security to move at the same pace as the rest of the organisation, the need for security is met by DevSecOps. This concept uses the same underlying principles with the need for developers, operators, security researchers and business analysts all moving together and collaborating to build and deliver applications together. 
